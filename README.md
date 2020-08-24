@@ -1,2 +1,2 @@
 # WireFrame
-# To open xd file you need adobe cd software 
+# To open xd file you need adobe Xd software 
